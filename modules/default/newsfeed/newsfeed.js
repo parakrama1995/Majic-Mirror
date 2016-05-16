@@ -1,11 +1,4 @@
-/* global Module */
-
-/* Magic Mirror
- * Module: NewsFeed
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
+// Thanks to all the contributors
 
 Module.register("newsfeed",{
 
