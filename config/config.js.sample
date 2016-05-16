@@ -1,8 +1,3 @@
-/* Magic Mirror Config Sample
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
 
 var config = {
 	port: 8080,
