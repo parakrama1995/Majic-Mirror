@@ -1,5 +1,5 @@
 
-
+//Thanks to all the contributors
 Module.register("calendar",{
 
 	// Define module defaults
