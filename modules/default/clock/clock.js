@@ -1,10 +1,5 @@
-/* global Log, Module, moment, config */
-/* Magic Mirror
- * Module: Clock
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
+// Thanks to all the contributors 
+
 Module.register("clock",{
 	// Module config defaults.
 	defaults: {
