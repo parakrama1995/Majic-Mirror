@@ -1,31 +1,17 @@
-/* global Log, Module, moment */
-
-/* Magic Mirror
- * Module: Compliments
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
- */
-
+// Thanks to all the contributo
 Module.register("compliments",{
 
 	// Module config defaults.
 	defaults: {
 		compliments: {
 			morning: [
-				"Good morning, handsome!",
-				"Enjoy your day!",
-				"How was your sleep?"
+				"Hello, Good Morning ! :)"
 			],
 			afternoon: [
-				"Hello, beauty!",
-				"You look sexy!",
-				"Looking good today!"
+				"Hello, Good Evening ! :)"
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
-				"Hi, sexy!"
+				"Hello, Good Evening ! :)"
 			]
 		},
 		updateInterval: 30000,
