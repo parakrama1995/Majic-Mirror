@@ -7,13 +7,6 @@ Add the following line:
 ````
 display_rotate=1
 ````
-
-##Autohiding the Mouse Cursor
-Install _unclutter_: 
-````
-sudo apt-get install unclutter
-````
-__version 1 only__
 ##Disabling the screensaver
 
 edit _/etc/xdg/lxsession/LXDE-pi/autostart_:
